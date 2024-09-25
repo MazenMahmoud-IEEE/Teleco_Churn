@@ -47,7 +47,6 @@ The workflow follows a standard data science pipeline:
 
 1. **Data Collection & Exploration:** 
    - The data is first loaded and inspected for missing values and anomalies.
-   - Exploratory Data Analysis (EDA) is performed to understand feature distributions and relationships with churn.
    
 2. **Data Preprocessing:**
    - Handling missing values.
